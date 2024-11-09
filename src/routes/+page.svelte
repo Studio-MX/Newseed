@@ -1,3 +1,3 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>귀 찮 아</h1>
+<p>이 위키 엔진은 <a href="//namu.wiki/w/지랄">바로 내일 개발이 완료됩니다!</a></p>
+
