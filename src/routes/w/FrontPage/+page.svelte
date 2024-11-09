@@ -1,4 +1,4 @@
-<h1>FrontPage>
+<h1>FrontPage</h1>
 <ul>
   <li>☆0</li>
   <li>역링크</li>
