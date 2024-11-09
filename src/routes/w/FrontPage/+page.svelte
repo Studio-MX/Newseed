@@ -1,0 +1,10 @@
+<h1>FrontPage>
+<ul>
+  <li>☆0</li>
+  <li>역링크</li>
+  <li>토론</li>
+  <li>편집</li>
+  <li>역사</li>
+  <li>ACL</li>
+</ul>
+<p>환영합니다!</p>
